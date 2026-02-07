@@ -1,1 +1,3 @@
-print('Hello, Tarique!')
+print('Hello, Tarique!');
+
+print('ready for build');
